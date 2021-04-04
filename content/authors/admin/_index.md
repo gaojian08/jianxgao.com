@@ -1,59 +1,57 @@
 ---
 # Display name
-name: Jian GAO
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Jian Gao
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: Postdoctoral Research Fellow
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Kellogg School of Management
-  url: "http://www.kellogg.northwestern.edu"
+  url: http://www.kellogg.northwestern.edu
 - name: Northwestern University
-  url: "http://www.northwestern.edu"
+  url: http://www.northwestern.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Research Fellow at Kellogg School of Management, Northwestern Univeristy, USA.
 
+# Interests to show in About widget
 interests:
 - Science of Science
-- Social Economics
 - Computational Social Science
+- Network Sciences
 - Economic Complexity
-- Network Science
-- Collective Learning
 - Knowledge Diffusion
+- Social Economics
+- Big Data
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: Univ. of Electronic Science & Technology of China advisor | Prof. Tao Zhou
+  - course: Ph.D. in Computer Science
+    institution: Univ. of Electronic Science & Technology of China | advisor Prof. Tao Zhou
     year: 2019
-  - course: Master in Computer Science
-    institution: Univ. of Electronic Science & Technology of China advisor | Prof. Tao Zhou
+  - course: Master Student in Computer Science
+    institution: Univ. of Electronic Science & Technology of China | advisor Prof. Tao Zhou
     year: 2014
-  - course: BSc in Info. & Computing Science
+  - course: B.Sc. in Info. & Computing Science
     institution: Univ. of Electronic Science & Technology of China
     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: uploads/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gaojian08@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jian.gao1@kellogg.northwestern.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=mvwDL1wAAAAJ
@@ -67,24 +65,23 @@ social:
   icon_pack: ai
   link: https://publons.com/researcher/1640338
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-
+# Highlight the author in author lists? (true/false)
+highlight_name: True
 
 ---
 
-Dr. Jian Gao is a Postdoctoral Research Fellow, working with [Prof. Dashun Wang](https://www.dashunwang.com), in the [Center for Science of Science and Innovation (CSSI)](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), [Kellogg School of Management](http://www.kellogg.northwestern.edu), [Northwestern University](http://www.northwestern.edu), USA. His is also a Researcher in Residence at the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu).
+Dr. Jian Gao is a Postdoctoral Research Fellow at the [Center for Science of Science and Innovation (CSSI)](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), [Kellogg School of Management](http://www.kellogg.northwestern.edu), [Northwestern University](http://www.northwestern.edu), USA. He is also a researcher in residence at the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu). He is now working with [Prof. Dashun Wang](https://www.dashunwang.com) at Kellogg. Before joining Northwestern, he received his PhD in computer science from [UESTC](https://www.uestc.edu.cn) in 2019, advised by [Prof. Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEAAAAJ).
 
-He is working in the interdisciplinary field named [Computational Socioeconomics](https://www.sciencedirect.com/science/article/pii/S0370157319301954), with a primary research interest on studying social and economic systems.
+He is currently working in interdisciplinary fields [Computational Socioeconomics](https://www.sciencedirect.com/science/article/pii/S0370157319301954) and [Science of Science](https://science.sciencemag.org/content/359/6379/eaao0185), with a primary research interest in understanding complex social and economic systems. His works have been published in general audience and field journals including [*Science*](https://science.sciencemag.org/content/371/6525/128), [*Nature*](https://www.nature.com/articles/546033a), [*Physics Reports*](https://www.sciencedirect.com/science/article/pii/S0370157319301954), [*Regional Studies*](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1883191), [*J. R. Soc. Interface*](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2018.0210), etc.
+
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

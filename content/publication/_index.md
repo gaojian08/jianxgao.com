@@ -1,15 +1,17 @@
 ---
-title: Publications
+title: publication
+cms_exclude: true
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 3
+view: 2
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+  
 ---
