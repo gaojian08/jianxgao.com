@@ -1,4 +1,7 @@
 ---
+active: true  # Activate this widget? true/false
+
+
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
@@ -7,9 +10,9 @@ widget: tag_cloud
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 40
 
-title: Popular Topics
+title: Topics
 subtitle: ''
 
 content:

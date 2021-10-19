@@ -1,4 +1,6 @@
 ---
+active: true  # Activate this widget? true/false
+
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
