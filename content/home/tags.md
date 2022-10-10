@@ -1,5 +1,5 @@
 ---
-active: true  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 
 
 # An instance of the Tag Cloud widget.

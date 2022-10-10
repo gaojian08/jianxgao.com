@@ -5,16 +5,16 @@ avatar_filename: avatar.jpg
 bio: Research Assistant Professor at Kellogg School of Management, Northwestern
   University, USA.
 interests:
-  - Science of Science
   - Computational Social Science
-  - Computational Socioeconomics
-  - Network Science
-  - Economic Complexity
-  - Knowledge Diffusion
-  - AI and Innovation
-  - Future of Work
-  - Science and Policy
-  - Big Data / Social Media
+  - Science of Science
+  - Big Data & Business Analytics
+  - Social and Economic Systems
+  - Technology and Innovation
+  - Broader Impacts of Science
+  - Pharmaceutical Innovation
+  - Networks & Complexity Science
+  - AI and the Future of Work
+  - Demographic Inequality & Workforce Sustainability 
 
 social:
   - icon: cv
@@ -56,14 +56,17 @@ education:
       institution: University of Electronic Science and Technology of China (advisor Prof. Tao Zhou)
       year: 2014
     - course: B.Sc. in Information & Computing Science
-      institution: University of Electronic Science and Technology of China
+      institution: University of Electronic Science and Technology of China  (top 10 undergraduates with the highest honors)
       year: 2012
 email: ""
 superuser: true
 highlight_name: false
----
-Dr. Jian Gao is a Research Assistant Professor at the [Center for Science of Science and Innovation (CSSI)](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), [Kellogg School of Management](http://www.kellogg.northwestern.edu), [Northwestern University](http://www.northwestern.edu), USA. He is also a researcher in residence at the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu). He is now primarily working with [Prof. Dashun Wang](https://www.dashunwang.com) at Kellogg CSSI. Between 2016 and 2017, he is one-year visiting Ph.D. student in the Collective Learning group at the [MIT Media Lab](https://www.media.mit.edu), hosted by [Prof. César A. Hidalgo](https://cesarhidalgo.com). Before joining Kellogg, he received his PhD in computer science and engineering from [UESTC](https://www.uestc.edu.cn) in 2019, advised by [Prof. Tao Zhou](https://scholar.google.com/citations?user=MXgWgmEAAAAJ).
 
-He is exploring interdisciplinary fields of the [Science of Science](https://science.sciencemag.org/content/359/6379/eaao0185) and [Computational Socioeconomics](https://www.sciencedirect.com/science/article/pii/S0370157319301954), with a primary interest in understanding complex social and economic systems. His works have been published in general audience and field journals including *[Science](https://science.sciencemag.org/content/371/6525/128)*, *[Nature](https://www.nature.com/articles/546033a)*, *[Physics Reports](https://www.sciencedirect.com/science/article/pii/S0370157319301954)*, *[Nature Communications](https://www.nature.com/articles/s41467-021-26428-z)*, *[Regional Studies](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1883191)*, etc.
+---
+Dr. Jian Gao is a Research Assistant Professor at the [Center for Science of Science and Innovation (CSSI)](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), and [Management & Organizations (MORS) Department](https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx), [Kellogg School of Management](http://www.kellogg.northwestern.edu), [Northwestern University](http://www.northwestern.edu), USA. He is also affiliated with the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu). He was a Postdoctoral Research Fellow at Kellogg CSSI (2019-2021), working with [Prof. Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun/). Before joining Kellogg, he was a researcher at [The MIT Media Lab](https://www.media.mit.edu) (2016-2017), working with [Prof. César A. Hidalgo](https://cesarhidalgo.com).
+
+His research interests lie in the interdisciplinary fields of [Computational Socioeconomics](https://www.sciencedirect.com/science/article/pii/S0370157319301954) and the [Science of Science](https://science.sciencemag.org/content/359/6379/eaao0185), focusing on understanding complex social and economic systems. He develops computational approaches to study how science interacts with social institutions, from public policy to new technology to pharmaceutical innovation. Meanwhile, his research examines equity and sustainability of the workforce that drives research, innovation, and economic prosperity. In particular, his works recognize the crucial fact that solutions to many of the challenges facing society today rely on science.
+
+Results from his research have yielded a range of generalizable insights, which hold implications for understanding the role and impact of science beyond science and for promoting an equitable and sustainable research workforce. He has published 20+ peer-reviewed articles in top journals such as *[Science](https://science.sciencemag.org/content/371/6525/128)*, *[Nature](https://www.nature.com/articles/546033a)*, *[Physics Reports](https://www.sciencedirect.com/science/article/pii/S0370157319301954)*, *[Nature Communications](https://www.nature.com/articles/s41467-021-26428-z)*, and *[Regional Studies](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1883191)*. His works have received [850+ citations](https://scholar.google.com/citations?user=mvwDL1wAAAAJ) with the [H-index 16](https://scholar.google.com/citations?user=mvwDL1wAAAAJ) and been covered by popular media such as *Scientific American* and *Forbes*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
